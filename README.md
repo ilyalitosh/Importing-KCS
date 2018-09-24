@@ -1,6 +1,6 @@
 # Importing KCS
 
-First, you can learn [this](https://github.com/ilyalitosh/Android-Code-Style-Kotlin-) <br>
+First, you can learn [this](https://github.com/ilyalitosh/Android-Code-Style-Kotlin-). <br>
 Second, for importing KCS(kotlin code style) in your project:
 1. Download the ACS.xml.
 2. Open project.
